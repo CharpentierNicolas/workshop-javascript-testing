@@ -2,6 +2,8 @@
 
 Workshop given with Ynov's students
 
+Un petit test
+
 ## Install
 
 	npm install
